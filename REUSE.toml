@@ -1,0 +1,6 @@
+version = 1
+
+[[annotations]]
+path = [".gitignore","CITATION.cff","NOTICE","README.md","REUSE.toml","SBOM.cdx.json","SECURITY.md","THIRD_PARTY_NOTICES.md","contracts/integration-contract.json","package-lock.json","package.json","src/canonical.js","src/envelope.js","src/gateway.js","src/http.js","src/process.js","src/service.js","third_party/REGISTER.json"]
+SPDX-FileCopyrightText = "2026 Sungmoon Park"
+SPDX-License-Identifier = "Apache-2.0"
